@@ -1,15 +1,18 @@
+### React Typescript Todo
+
 App created to learn how to use typescript in react. Tried some core typescripts features, checkout app.
 
-Run app using following commands - 
 
-1. In the project directory, you can run:
+#### Run app using following commands - 
+
+> In the project directory, install the dependencies using:
 
 ### `npm install`
-Installs all dependencies
 
-2. Then run:
+> Then to run the app in development mode:
 
 ### `npm start`
-Runs the app in the development mode.\
 
-3. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+> Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+> Enjoy!! 🎉🎉
