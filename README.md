@@ -5,14 +5,14 @@ App created to learn how to use typescript in react. Tried some core typescripts
 
 #### Run app using following commands - 
 
-> In the project directory, install the dependencies using:
+1. In the project directory, install the dependencies using:
 
-### `npm install`
+    ### `npm install`
 
-> Then to run the app in development mode:
+2. Then to run the app in development mode:
 
-### `npm start`
+    ### `npm start`
 
-> Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+3. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-> Enjoy!! 🎉🎉
+4. Enjoy!! 🎉🎉
