@@ -3,7 +3,7 @@
 App created to learn how to use typescript in react. Tried some core typescripts features, checkout app.
 
 
-#### Run app using following commands - 
+#### Run app using following steps - 
 
 1. In the project directory, install the dependencies using:
 
