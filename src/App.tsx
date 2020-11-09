@@ -16,7 +16,7 @@ function App() {
   }
 
   const deleteTodo = (id: number) => {
-    setTodos(prevTodos => prevTodos.filter(todo => todo.id != id))
+    setTodos(prevTodos => prevTodos.filter(todo => todo.id !== id))
   }
 
   return (
