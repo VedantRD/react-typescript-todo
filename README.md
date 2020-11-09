@@ -2,6 +2,7 @@
 
 App created to learn how to use typescript in react. Tried some core typescripts features, checkout app.
 
+![Github Logo](/public/todo.png)
 
 #### Run app using following steps - 
 
@@ -14,7 +15,5 @@ App created to learn how to use typescript in react. Tried some core typescripts
     ### `npm start`
 
 3. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-    ![Github Logo](/public/todo.png)
 
 4. Enjoy!! 🎉🎉
